@@ -1,5 +1,0 @@
-"0","# Is it strong? (R^2)"
-"0","model_estimate %>% "
-"0","  glance()"
-"2","Error: object 'model_estimate' not found
-"

@@ -1,4 +1,0 @@
-"0",""
-"0","ggplot(weather, aes(x = temp3pm, fill = raintoday)) + "
-"0","  geom_density(alpha = 0.5) + "
-"0","  facet_wrap( ~ raintoday)"

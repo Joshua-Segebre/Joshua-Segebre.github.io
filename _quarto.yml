@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Joshua Segebre"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About Me
+  
+
+format:
+  html:
+    theme: sketchy
+    css: styles.css
+    toc: true
+
+editor: visual
+

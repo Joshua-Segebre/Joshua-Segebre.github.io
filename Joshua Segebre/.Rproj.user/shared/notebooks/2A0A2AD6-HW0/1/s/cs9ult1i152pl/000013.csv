@@ -1,3 +1,0 @@
-"0",""
-"0","ggplot(weather, aes(y = temp3pm, x = temp9am, size = humidity9am)) + "
-"0","  geom_point(alpha = 0.5) "

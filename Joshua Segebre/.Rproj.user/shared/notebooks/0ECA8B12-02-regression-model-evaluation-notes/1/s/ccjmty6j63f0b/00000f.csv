@@ -1,4 +1,0 @@
-"0","# YOUR TURN"
-"0","# Obtain R^2 for bike_model_2"
-"0","bike_model_2 %>% "
-"0","  glance()"

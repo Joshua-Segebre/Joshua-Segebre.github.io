@@ -1,3 +1,0 @@
-"0","ggplot(weather, aes(x=dateInYear)) + "
-"0","    geom_linerange(aes(ymax = RecordHigh , ymin = RecordLow) ,color='#ecebe3') + geom_linerange(aes(ymax = NormalHigh , ymin = NormalLow) ,color='#C8B8BA') + geom_linerange(aes(ymax = High , ymin = Low) ,color='#A90248') +"
-"0","    theme_classic()"

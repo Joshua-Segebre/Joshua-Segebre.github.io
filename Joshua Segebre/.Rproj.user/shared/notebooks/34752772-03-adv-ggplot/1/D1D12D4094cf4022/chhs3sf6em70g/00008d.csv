@@ -1,7 +1,0 @@
-"0","ggplot(weather, aes(x=dateInYear)) + "
-"0","    geom_linerange(aes(ymax = RecordHigh , ymin = RecordLow) ,color='#ecebe3') + geom_linerange(aes(ymax = NormalHigh , ymin = NormalLow) ,color='#C8B8BA') + geom_linerange(aes(ymax = High , ymin = Low) ,color='#A90248') + "
-"0","  geom_vline(data=simpleWeather, aes(xintercept= dateInYear), color='#9c9c9c', linetype=""dotted"") +"
-"0","    theme_classic() + "
-"0","  ggtitle(""SFO Weather in 2011"") + "
-"0","  ylab(""Temperature"") +"
-"0","  xlab(""    Jan     Feb    Mar     Apr       May      Jun     Jul      Aug     Sept      Oct      Nov     Dec "")"

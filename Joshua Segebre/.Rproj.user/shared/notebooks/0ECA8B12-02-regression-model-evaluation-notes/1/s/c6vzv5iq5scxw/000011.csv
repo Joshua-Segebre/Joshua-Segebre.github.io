@@ -1,6 +1,0 @@
-"0","# Obtain y predictions and residuals for each observation in our sample_data"
-"0","# (We can replace sample_data with any data frame that includes y, x1, and x2)"
-"0","model_estimate %>% "
-"0","  augment(new_data = sample_data)"
-"2","Error: object 'model_estimate' not found
-"

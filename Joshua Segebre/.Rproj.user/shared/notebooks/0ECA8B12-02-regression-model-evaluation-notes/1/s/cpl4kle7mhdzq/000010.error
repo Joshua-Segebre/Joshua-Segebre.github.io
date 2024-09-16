@@ -1,1 +1,0 @@
-{"frames":[{"func":"model_estimate %>% glance()","file":"","line_number":0,"end_line_number":0,"character_number":0,"end_character_number":0},{"func":"glance(.)","file":"","line_number":0,"end_line_number":0,"character_number":0,"end_character_number":0}],"message":"Error: object 'model_estimate' not found\n"}
