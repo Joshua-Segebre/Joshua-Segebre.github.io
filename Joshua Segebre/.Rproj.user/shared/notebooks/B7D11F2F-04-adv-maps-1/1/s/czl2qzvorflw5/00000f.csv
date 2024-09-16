@@ -1,0 +1,5 @@
+"0","# Read in shapefiles just downloaded
+mn_cities <- st_read(""../data/shp_loc_pop_centers/city_and_township_population_centers.shp"")
+"
+"2","Error: Cannot open ""../data/shp_loc_pop_centers/city_and_township_population_centers.shp""; The file doesn't seem to exist.
+"

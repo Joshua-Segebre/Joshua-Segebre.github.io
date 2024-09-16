@@ -1,0 +1,15 @@
+{
+  "hash": "17f6fcfcf27ff5e258c9ba8eae42eaeb",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Joshua Segebre\"\n---\n\n\n\n**About Me**\n\nMy name is Joshua Segebre, I am a third-year studying Data Science and Psychology at Macalester College. I am from Miami, FL and Colombia. I am interested in combining data science with my interests including arts & culture, fashion, aviation, and traveling. Outside of my academic and professional life, I enjoy drinking coffee and spontaneous outing with friends.\n\nLet's connect!\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

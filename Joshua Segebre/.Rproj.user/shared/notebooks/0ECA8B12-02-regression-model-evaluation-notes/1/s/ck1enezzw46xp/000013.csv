@@ -1,0 +1,10 @@
+"0","# STEP 1: specify the type of model to build"
+"0","lm_spec <- linear_reg() %>% # we want a linear regression model"
+"0","  set_mode(""regression"") %>%  # this is a regression task (y is quantitative)"
+"0","  set_engine(""lm"")# we'll estimate the model using the lm function"
+"0",""
+"0","# STEP 2: estimate the specified model using sample data"
+"0","model_estimate <- lm_spec %>% "
+"0","  fit(y ~ x1 + x2, data = sample_data)"
+"2","Error: object 'sample_data' not found
+"

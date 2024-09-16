@@ -1,0 +1,1 @@
+"0","simpleWeather <- weather %>% group_by(Month) %>%  filter(Day==max(Day)) %>% ungroup() %>% slice(1:11) %>% mutate(abrMonth=month.name[Month])"

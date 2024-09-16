@@ -1,0 +1,4 @@
+"0",""
+"0","ggplot(weather, aes(y = temp3pm, x = temp9am, color = cut(humidity9am, 3))) + "
+"0","  geom_point(alpha = 0.5) +"
+"0","  facet_wrap(~ cut(humidity9am, 3)) "

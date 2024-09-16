@@ -1,0 +1,2 @@
+"0","ggplot(bikes, aes(y = rides, x = temp)) + "
+"0","  geom_point()"

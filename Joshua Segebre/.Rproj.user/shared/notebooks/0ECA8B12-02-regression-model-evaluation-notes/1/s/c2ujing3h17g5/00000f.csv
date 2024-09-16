@@ -1,0 +1,4 @@
+"0","# Start small: rides vs temp"
+"0","ggplot(___, aes(y = ___, x = ___)) + "
+"2","Error: unexpected input in ""ggplot(__""
+"
