@@ -13,8 +13,6 @@ website:
       - href: projects.qmd
         text: Projects
 
-  
-
 format:
   html:
     theme: sketchy
@@ -22,4 +20,3 @@ format:
     toc: true
 
 editor: visual
-
